@@ -1,1 +1,2 @@
-A new project folder
+An updated folder for project
+
